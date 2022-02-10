@@ -123,8 +123,9 @@
     #intro.section {
       background-position-x: 30%;
     }
-    #flex{
+    div.row.text-center{
       display: flex;
       flex-wrap: wrap;
     }
+
   }
