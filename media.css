@@ -123,4 +123,8 @@
     #intro.section {
       background-position-x: 30%;
     }
+    #flex{
+      display: flex;
+      flex-wrap: wrap;
+    }
   }
